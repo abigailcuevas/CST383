@@ -1,0 +1,13 @@
+problem 2.1: barplot num contributions: 0
+problem 2.2: barplot median contribution: 6
+problem 2.3: histogram contribution amounts: 6
+problem 2.4: histogram contribution amounts to 500: 6
+problem 2.5: density contribution amounts to 500: 6
+problem 2.6: double density Rubio/Cruz: 6
+problem 2.7: violin plot Sanders/Clinton: 6
+problem 2.8: barplot contributions by occupation: 6
+problem 2.9: barplot contributions by employment: 6
+problem 2.10: double density contributions by retired/employed: 6
+problem 2.11: boxplot contributions by employment status: 6
+problem 2.12: barplot contribution by occupation: 6
+  Good job on the whole assignment!  Try using larger plots.
