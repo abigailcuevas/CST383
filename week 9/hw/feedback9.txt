@@ -1,0 +1,27 @@
+problem 1.1: bar plot: 5
+problem 1.2: describe: 5
+problem 1.3: boxplot: 5
+problem 1.4: pairplot: 4
+  Specify no predictors if you want to use all of them.
+problem 1.5: fraction zero: 5
+problem 1.6: number zeros: 5
+problem 1.7: remove zeros: 5
+problem 1.8: train knn: 5
+problem 1.9: cv accuracy: 5
+problem 1.10: baseline accuracy: 5
+problem 1.11: cv accuracy for k: 3
+  clf.fit() is not needed.
+problem 1.12: grid search cv: 5
+problem 1.13: best knn: 0
+  no code
+problem 1.14: test accuracy: 0
+  no code
+problem 2.5: 0/10
+  response: c; correct: b
+  explanation: In each training step, 9 of the folds are used for training, and 1 fold is used for testing.
+problem 3.1: 0/10
+  response: a; correct: b
+  explanation: Accuracy tells us the fraction of predictions that are correct, so we want the value to be high.  What we really care about is accuracy on data we've never seen before.  The test data represents data we've never seen before so test accuracy is most important in classification problems.
+problem 3.2: 0/10
+  response: 18; correct: 729
+  explanation: If there was one hyperparam with 3 possible values, the answer would be three.  If two such hyperparameters, the answer would be 3 * 3, or 3**2.  If six such hyperparameters, the answer is 6**2.

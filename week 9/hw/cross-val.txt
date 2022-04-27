@@ -1,0 +1,20 @@
+
+# 
+# Problem lines begin with "#@".
+# For each problem line, enter your answer on the following line.
+# Do not modify this file in any way except to enter your answers.
+#
+
+#@ 1 -- enter 'a' or 'b' (don't use quotes in your answers)
+b
+#@ 2 -- enter 'a', 'b', 'c', or 'd'
+c
+#@ 3 -- enter 'a', 'b', 'c', or 'd'
+a
+#@ 4 -- enter 'a', 'b', 'c', 'd', or 'e'
+c
+#@ 5 -- enter 'a', 'b', or 'c'
+c
+#@ 6 -- enter 'a', 'b', or 'c'
+b
+
