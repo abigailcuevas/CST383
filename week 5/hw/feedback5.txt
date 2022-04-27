@@ -1,0 +1,43 @@
+problem 1.1: 3
+  Use semicolon after last plotting statement in cell.
+problem 1.2: 4
+problem 1.3: 4
+problem 1.4: 4
+problem 1.5: 4
+problem 1.6: 3
+  Use semicolon after last plotting statement in cell.
+problem 1.7: 3
+  Use semicolon after last plotting statement in cell.
+problem 1.8: 3
+  Use semicolon after last plotting statement in cell.
+problem 1.9: 4
+problem 1.10: 4
+problem 1.11: 4
+problem 1.12: 4
+problem 1.13: 4
+problem 1.14: 4
+problem 1.15: 3
+  Use semicolon after last plotting statement in cell.
+  Use axis labels.
+problem 1.16: 2
+  Use semicolon after last plotting statement in cell.
+  Use axis labels.
+problem 1.17: 2
+  Use semicolon after last plotting statement in cell.
+  Use axis labels.
+problem 1.18: 1
+  you computed probability that island is biscoe given species is adelie
+  dfb = df[df['island'] == 'Biscoe']
+  (dfb['species'] == 'Adelie').mean()
+problem 1.19: 4
+problem 1.20: 3
+  Use semicolon after last plotting statement in cell.
+problem 1.21: 3
+  Use semicolon after last plotting statement in cell.
+problem 1.22: 3
+  Use semicolon after last plotting statement in cell.
+problem 1.23: 4
+problem 1.24: 4
+problem 1.25: 4
+problem 1.26: 4
+problem 1.27: 4

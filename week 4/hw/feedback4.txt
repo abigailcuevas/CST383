@@ -1,0 +1,15 @@
+problem 1.30: execution error: operands could not be broadcast together with shapes (4,) (2,) 
+problem 1.36: error: no code provided
+problem 1.37: error: result is not a DataFrame
+  Your output:
+  age_group
+  18-25    174.0
+  25-35    481.0
+  35-50    236.5
+  >50       63.0
+  dtype: float64
+  Correct output:
+  age_group      18-25     25-35     35-50       >50
+  user_type                                         
+  Customer    0.024096  0.067575  0.026716  0.005762
+  Subscriber  0.158198  0.436354  0.221058  0.060241

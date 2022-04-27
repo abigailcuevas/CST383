@@ -1,0 +1,17 @@
+problem 1.1: 3
+problem 1.2: 3
+problem 1.3: 3
+problem 1.4: 1
+  Use only p0
+problem 1.5: 3
+problem 1.6: 3
+problem 1.7: 3
+problem 1.8: 3
+problem 1.9: 3
+problem 1.10: 3
+problem 1.11: 3
+problem 1.12: 3
+problem 1.13: 3
+problem 1.14: 3
+problem 1.15: 3
+problem 1.16: 3
