@@ -1,0 +1,16 @@
+problem 1.7: 0/3
+  response: b; correct: a
+  explanation: In supervised learning, we have a label giving us the correct answer, so we can compute how often we got the correct answer.  See section 1.7.6.
+problem 2.1: 5
+problem 2.2: 5
+problem 2.3: 5
+problem 2.4: 5
+problem 2.5: 5
+problem 2.6: 5
+problem 2.7: 5
+problem 2.8: 5
+problem 2.9: 5
+problem 2.10: 2
+  The 0.28, 0.3 and 0.39 are values for the same species of iris,
+  so petal length times petal width looks like a good way to
+  predict species.
