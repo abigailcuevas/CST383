@@ -1,0 +1,3 @@
+problem 1.11: 0/10
+  response: 0.838; correct: 0.0011
+  explanation: Using Bayes Law, you compute the answer by computing (P(T=0|C=1) * P(C=1))/(P(T=0|C=1)*P(C=1) + P(T=0|C=1)*P(C=1)).  From the information in the question we get P(T=1|C=1) = 0.95, P(T=0|C=0) = 0.9, and P(C=0)=0.98.  From these we can derive P(C=1)=0.02 and P(T=1|C=0)=0.1
